@@ -1,6 +1,8 @@
-# Computer Assembly – Virtual Hardware Lab
+## Computer Assembly & Hardware Fundamentals
 
-## Overview
+---
+
+### Overview
 
 This project documents a virtual computer assembly exercise completed as part of my IT Support Specialist training.
 
@@ -10,7 +12,7 @@ The exercise focused on identifying computer components, understanding their pro
 
 ---
 
-## Objectives
+### Objectives
 
 The objectives of this lab were to:
 
@@ -24,24 +26,25 @@ The objectives of this lab were to:
 
 ---
 
-## Tools & Resources
+### Tools & Resources
 
-### Tools Used
+#### Tools Used
 
 - Interactive virtual computer assembly activity
 - Web browser
 - Computer
 - Google IT Support Specialist training platform
 
-### Lab Type
+#### Lab Type
 
 **Virtual Hardware Assembly**
 
 ---
+---
 
-# Lab Walkthrough
+### Lab Walkthrough
 
-## Step 1 — Review the Computer Components
+### Step 1 — Review the Computer Components
 
 The exercise provided a virtual computer environment along with different hardware components.
 
@@ -50,13 +53,13 @@ The goal was to identify each component and place it into the appropriate sectio
 Before placing the components, I reviewed the available options and considered the role and physical location of each component.
 
 
-### Virtual Computer Assembly:
+#### Virtual Computer Assembly:
 
 ![Virtual computer assembly](https://i.imgur.com/eR429jC.png)
 
 ---
 
-## Step 2 — Place the Hardware Components
+### Step 2 — Place the Hardware Components
 
 I used the drag-and-drop interface to place each hardware component into its corresponding location.
 
@@ -66,7 +69,7 @@ This helped simulate the process of physically installing components into a comp
 
 ---
 
-## Step 3 — Assemble the CPU Section
+### Step 3 — Assemble the CPU Section
 
 The CPU section required four components to be placed in the correct order.
 
@@ -76,7 +79,7 @@ This part of the activity reinforced the importance of understanding how hardwar
 
 ---
 
-## Step 4 — Check the Configuration
+### Step 4 — Check the Configuration
 
 After placing the components, I used the **Check** function to verify the configuration.
 
@@ -91,7 +94,7 @@ This provided an opportunity to troubleshoot and correct configuration errors.
 
 ---
 
-## Step 5 — Verify the Completed Assembly
+### Step 5 — Verify the Completed Assembly
 
 After correcting and verifying the component placements, the virtual computer assembly was successfully completed.
 
@@ -102,8 +105,9 @@ The completed exercise confirmed that the components had been categorized and po
 ![Completed computer assembly](https://i.imgur.com/nEwh4fS.png)
 
 ---
+---
 
-# Hardware Concepts Practiced
+### Hardware Concepts Practiced
 
 During this activity, I practiced understanding the role and placement of common computer hardware components.
 
@@ -120,46 +124,49 @@ The exercise reinforced concepts related to:
 - Physical component placement
 
 ---
+---
 
-# Troubleshooting Approach
+### Troubleshooting Approach
 
 I followed a basic troubleshooting methodology throughout the activity:
 
-### 1. Identify
+#### 1. Identify
 
 I identified the available hardware components and the sections where they needed to be installed.
 
-### 2. Analyze
+#### 2. Analyze
 
 I considered the function and physical location of each component before placing it.
 
-### 3. Configure
+#### 3. Configure
 
 I placed each component into the appropriate location using the virtual assembly interface.
 
-### 4. Verify
+#### 4. Verify
 
 I used the Check function to determine whether the placements were correct.
 
-### 5. Correct
+#### 5. Correct
 
 When necessary, I corrected incorrect placements and repeated the verification process.
 
-### 6. Confirm
+#### 6. Confirm
 
 I completed the exercise after achieving the required accuracy.
 
 ---
+---
 
-# Results
+### Results
 
 I successfully completed the virtual computer assembly exercise.
 
 ---
+---
 
-# Skills Demonstrated
+### Skills Demonstrated
 
-## Technical Skills
+#### Technical Skills
 
 - Computer hardware identification
 - Virtual computer assembly
@@ -169,7 +176,7 @@ I successfully completed the virtual computer assembly exercise.
 - Hardware installation concepts
 - Configuration verification
 
-## Troubleshooting Skills
+#### Troubleshooting Skills
 
 - Problem identification
 - Technical analysis
@@ -178,7 +185,7 @@ I successfully completed the virtual computer assembly exercise.
 - Verification of results
 - Following technical procedures
 
-## Professional Skills
+#### Professional Skills
 
 - Attention to detail
 - Systematic problem-solving
@@ -187,8 +194,9 @@ I successfully completed the virtual computer assembly exercise.
 - Analytical thinking
 
 ---
+---
 
-# Cybersecurity Relevance
+### Cybersecurity Relevance
 
 Understanding computer hardware provides an important foundation for IT and Cybersecurity.
 
